@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Abdul Kalam
 
-<!--
-**maicoderhu1/maicoderhu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BCA Student | Beginner Web Developer  
+🌱 Building my developer journey as **MaiCoderHu**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 BCA student learning web development step by step
+- 💻 Interested in Frontend & Web Technologies
+- 🌱 Currently learning HTML, CSS, JavaScript
+- 🧠 Focused on clean, simple, and understandable code
+- 🚀 Long-term goal: Freelancing & real-world projects
+
+---
+
+## 🛠️ Skills (Learning Stage)
+- HTML5  
+- CSS3  
+- Basic JavaScript  
+- Git & GitHub  
+- GitHub Pages  
+
+> I believe in honest learning and growing with real practice.
+
+---
+
+## 📌 Current Focus
+- Strengthening frontend fundamentals
+- Building small practice projects
+- Growing my personal brand **MaiCoderHu**
+
+---
+
+## 🌐 Portfolio Website
+🔗 https://maicoderhu.me
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/maicoderhu1
+
+---
+
+⭐ Thanks for visiting my profile!
